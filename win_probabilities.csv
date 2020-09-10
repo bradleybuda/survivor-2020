@@ -1,0 +1,256 @@
+0,Atlanta,0.41,Minnesota,0.59
+0,Baltimore,0.61,Miami,0.39
+0,Buffalo,0.45,N.Y. Jets,0.55
+0,Cincinnati,0.25,Seattle,0.75
+0,Denver,0.49,Oakland,0.51
+0,Detroit,0.51,Arizona,0.49
+0,Green Bay,0.36,Chicago,0.64
+0,Houston,0.32,New Orleans,0.68
+0,Indianapolis,0.28,L.A. Chargers,0.72
+0,Kansas City,0.58,Jacksonville,0.42
+0,L.A. Rams,0.52,Carolina,0.48
+0,N.Y. Giants,0.26,Dallas,0.74
+0,Pittsburgh,0.32,New England,0.68
+0,San Francisco,0.45,Tampa Bay,0.55
+0,Tennessee,0.4,Cleveland,0.6
+0,Washington,0.23,Philadelphia,0.77
+1,Arizona,0.19,Baltimore,0.81
+1,Buffalo,0.52,N.Y. Giants,0.48
+1,Chicago,0.54,Denver,0.46
+1,Cleveland,0.5,N.Y. Jets,0.5
+1,Dallas,0.62,Washington,0.38
+1,Indianapolis,0.32,Tennessee,0.68
+1,Jacksonville,0.2,Houston,0.8
+1,Kansas City,0.69,Oakland,0.31
+1,L.A. Chargers,0.59,Detroit,0.41
+1,Minnesota,0.44,Green Bay,0.56
+1,New England,0.81,Miami,0.19
+1,New Orleans,0.44,L.A. Rams,0.56
+1,Philadelphia,0.55,Atlanta,0.45
+1,San Francisco,0.53,Cincinnati,0.47
+1,Seattle,0.42,Pittsburgh,0.58
+1,Tampa Bay,0.3,Carolina,0.7
+2,Atlanta,0.46,Indianapolis,0.54
+2,Baltimore,0.31,Kansas City,0.69
+2,Carolina,0.35,Arizona,0.65
+2,Chicago,0.59,Washington,0.41
+2,Cincinnati,0.26,Buffalo,0.74
+2,Denver,0.26,Green Bay,0.74
+2,Detroit,0.3,Philadelphia,0.7
+2,Houston,0.34,L.A. Chargers,0.66
+2,L.A. Rams,0.61,Cleveland,0.39
+2,Miami,0.09,Dallas,0.91
+2,N.Y. Giants,0.31,Tampa Bay,0.69
+2,N.Y. Jets,0.09,New England,0.91
+2,New Orleans,0.3,Seattle,0.7
+2,Oakland,0.26,Minnesota,0.74
+2,Pittsburgh,0.21,San Francisco,0.79
+2,Tennessee,0.67,Jacksonville,0.33
+3,Carolina,0.22,Houston,0.78
+3,Cincinnati,0.42,Pittsburgh,0.58
+3,Cleveland,0.28,Baltimore,0.72
+3,Dallas,0.53,New Orleans,0.47
+3,Jacksonville,0.4,Denver,0.6
+3,Kansas City,0.67,Detroit,0.33
+3,L.A. Chargers,0.79,Miami,0.21
+3,Minnesota,0.41,Chicago,0.59
+3,New England,0.65,Buffalo,0.35
+3,Oakland,0.27,Indianapolis,0.73
+3,Philadelphia,0.39,Green Bay,0.61
+3,Seattle,0.71,Arizona,0.29
+3,Tampa Bay,0.17,L.A. Rams,0.83
+3,Tennessee,0.38,Atlanta,0.62
+3,Washington,0.44,N.Y. Giants,0.56
+4,Arizona,0.39,Cincinnati,0.61
+4,Atlanta,0.37,Houston,0.63
+4,Baltimore,0.58,Pittsburgh,0.42
+4,Buffalo,0.34,Tennessee,0.66
+4,Chicago,0.53,Oakland,0.47
+4,Cleveland,0.34,San Francisco,0.66
+4,Denver,0.22,L.A. Chargers,0.78
+4,Green Bay,0.37,Dallas,0.63
+4,Indianapolis,0.18,Kansas City,0.82
+4,Jacksonville,0.4,Carolina,0.6
+4,L.A. Rams,0.45,Seattle,0.55
+4,Minnesota,0.59,N.Y. Giants,0.41
+4,N.Y. Jets,0.19,Philadelphia,0.81
+4,New England,0.85,Washington,0.15
+4,Tampa Bay,0.36,New Orleans,0.64
+5,Atlanta,0.63,Arizona,0.37
+5,Carolina,0.43,Tampa Bay,0.57
+5,Cincinnati,0.19,Baltimore,0.81
+5,Dallas,0.66,N.Y. Jets,0.34
+5,Detroit,0.38,Green Bay,0.62
+5,Houston,0.2,Kansas City,0.8
+5,N.Y. Giants,0.13,New England,0.87
+5,New Orleans,0.58,Jacksonville,0.42
+5,Philadelphia,0.49,Minnesota,0.51
+5,Pittsburgh,0.24,L.A. Chargers,0.76
+5,San Francisco,0.35,L.A. Rams,0.65
+5,Seattle,0.48,Cleveland,0.52
+5,Tennessee,0.59,Denver,0.41
+5,Washington,0.53,Miami,0.47
+6,Arizona,0.3,N.Y. Giants,0.7
+6,Baltimore,0.37,Seattle,0.63
+6,Houston,0.42,Indianapolis,0.58
+6,Jacksonville,0.54,Cincinnati,0.46
+6,Kansas City,0.79,Denver,0.21
+6,L.A. Chargers,0.46,Tennessee,0.54
+6,L.A. Rams,0.58,Atlanta,0.42
+6,Miami,0.13,Buffalo,0.87
+6,Minnesota,0.46,Detroit,0.54
+6,New England,0.76,N.Y. Jets,0.24
+6,New Orleans,0.35,Chicago,0.65
+6,Oakland,0.29,Green Bay,0.71
+6,Philadelphia,0.41,Dallas,0.59
+6,San Francisco,0.68,Washington,0.32
+7,Arizona,0.13,New Orleans,0.87
+7,Carolina,0.34,San Francisco,0.66
+7,Cincinnati,0.19,L.A. Rams,0.81
+7,Cleveland,0.24,New England,0.76
+7,Denver,0.31,Indianapolis,0.69
+7,Green Bay,0.24,Kansas City,0.76
+7,L.A. Chargers,0.4,Chicago,0.6
+7,Miami,0.18,Pittsburgh,0.82
+7,N.Y. Giants,0.3,Detroit,0.7
+7,N.Y. Jets,0.42,Jacksonville,0.58
+7,Oakland,0.31,Houston,0.69
+7,Philadelphia,0.54,Buffalo,0.46
+7,Seattle,0.53,Atlanta,0.47
+7,Tampa Bay,0.39,Tennessee,0.61
+7,Washington,0.2,Minnesota,0.8
+8,Chicago,0.4,Philadelphia,0.6
+8,Cleveland,0.57,Denver,0.43
+8,Dallas,0.7,N.Y. Giants,0.3
+8,Detroit,0.49,Oakland,0.51
+8,Green Bay,0.4,L.A. Chargers,0.6
+8,Houston,0.63,Jacksonville,0.37
+8,Indianapolis,0.51,Pittsburgh,0.49
+8,Minnesota,0.22,Kansas City,0.78
+8,N.Y. Jets,0.67,Miami,0.33
+8,New England,0.6,Baltimore,0.4
+8,San Francisco,0.72,Arizona,0.28
+8,Tampa Bay,0.31,Seattle,0.69
+8,Tennessee,0.48,Carolina,0.52
+8,Washington,0.24,Buffalo,0.76
+9,Arizona,0.21,Tampa Bay,0.79
+9,Atlanta,0.24,New Orleans,0.76
+9,Baltimore,0.66,Cincinnati,0.34
+9,Buffalo,0.39,Cleveland,0.61
+9,Carolina,0.35,Green Bay,0.65
+9,Detroit,0.32,Chicago,0.68
+9,Kansas City,0.65,Tennessee,0.35
+9,L.A. Chargers,0.6,Oakland,0.4
+9,L.A. Rams,0.69,Pittsburgh,0.31
+9,Miami,0.15,Indianapolis,0.85
+9,Minnesota,0.34,Dallas,0.66
+9,N.Y. Giants,0.39,N.Y. Jets,0.61
+9,Seattle,0.44,San Francisco,0.56
+10,Arizona,0.17,San Francisco,0.83
+10,Atlanta,0.36,Carolina,0.64
+10,Buffalo,0.75,Miami,0.25
+10,Chicago,0.39,L.A. Rams,0.61
+10,Cincinnati,0.28,Oakland,0.72
+10,Dallas,0.54,Detroit,0.46
+10,Denver,0.29,Minnesota,0.71
+10,Houston,0.42,Baltimore,0.58
+10,Jacksonville,0.41,Indianapolis,0.59
+10,Kansas City,0.68,L.A. Chargers,0.32
+10,N.Y. Jets,0.49,Washington,0.51
+10,New England,0.57,Philadelphia,0.43
+10,New Orleans,0.61,Tampa Bay,0.39
+10,Pittsburgh,0.3,Cleveland,0.7
+11,Baltimore,0.34,L.A. Rams,0.66
+11,Carolina,0.3,New Orleans,0.7
+11,Dallas,0.28,New England,0.72
+11,Denver,0.3,Buffalo,0.7
+11,Detroit,0.63,Washington,0.37
+11,Green Bay,0.46,San Francisco,0.54
+11,Indianapolis,0.38,Houston,0.62
+11,Jacksonville,0.32,Tennessee,0.68
+11,Miami,0.13,Cleveland,0.87
+11,N.Y. Giants,0.24,Chicago,0.76
+11,Oakland,0.43,N.Y. Jets,0.57
+11,Pittsburgh,0.54,Cincinnati,0.46
+11,Seattle,0.42,Philadelphia,0.58
+11,Tampa Bay,0.43,Atlanta,0.57
+12,Buffalo,0.29,Dallas,0.71
+12,Chicago,0.53,Detroit,0.47
+12,Cleveland,0.55,Pittsburgh,0.45
+12,Green Bay,0.63,N.Y. Giants,0.37
+12,L.A. Chargers,0.67,Denver,0.33
+12,L.A. Rams,0.74,Arizona,0.26
+12,Minnesota,0.4,Seattle,0.6
+12,N.Y. Jets,0.55,Cincinnati,0.45
+12,New England,0.65,Houston,0.35
+12,New Orleans,0.62,Atlanta,0.38
+12,Oakland,0.12,Kansas City,0.88
+12,Philadelphia,0.83,Miami,0.17
+12,San Francisco,0.42,Baltimore,0.58
+12,Tampa Bay,0.38,Jacksonville,0.62
+12,Tennessee,0.48,Indianapolis,0.52
+12,Washington,0.2,Carolina,0.8
+13,Baltimore,0.48,Buffalo,0.52
+13,Carolina,0.49,Atlanta,0.51
+13,Cincinnati,0.21,Cleveland,0.79
+13,Dallas,0.44,Chicago,0.56
+13,Denver,0.27,Houston,0.73
+13,Detroit,0.37,Minnesota,0.63
+13,Indianapolis,0.41,Tampa Bay,0.59
+13,Kansas City,0.43,New England,0.57
+13,L.A. Chargers,0.48,Jacksonville,0.52
+13,Miami,0.2,N.Y. Jets,0.8
+13,N.Y. Giants,0.21,Philadelphia,0.79
+13,Pittsburgh,0.55,Arizona,0.45
+13,San Francisco,0.31,New Orleans,0.69
+13,Seattle,0.37,L.A. Rams,0.63
+13,Tennessee,0.54,Oakland,0.46
+13,Washington,0.18,Green Bay,0.82
+14,Atlanta,0.32,San Francisco,0.68
+14,Buffalo,0.52,Pittsburgh,0.48
+14,Chicago,0.45,Green Bay,0.55
+14,Cleveland,0.68,Arizona,0.32
+14,Denver,0.12,Kansas City,0.88
+14,Houston,0.4,Tennessee,0.6
+14,Indianapolis,0.24,New Orleans,0.76
+14,Jacksonville,0.52,Oakland,0.48
+14,L.A. Rams,0.43,Dallas,0.57
+14,Miami,0.22,N.Y. Giants,0.78
+14,Minnesota,0.37,L.A. Chargers,0.63
+14,N.Y. Jets,0.28,Baltimore,0.72
+14,New England,0.84,Cincinnati,0.16
+14,Philadelphia,0.73,Washington,0.27
+14,Seattle,0.45,Carolina,0.55
+14,Tampa Bay,0.4,Detroit,0.6
+15,Arizona,0.15,Seattle,0.85
+15,Baltimore,0.45,Cleveland,0.55
+15,Buffalo,0.19,New England,0.81
+15,Carolina,0.48,Indianapolis,0.52
+15,Cincinnati,0.55,Miami,0.45
+15,Dallas,0.42,Philadelphia,0.58
+15,Detroit,0.55,Denver,0.45
+15,Green Bay,0.45,Minnesota,0.55
+15,Houston,0.46,Tampa Bay,0.54
+15,Jacksonville,0.47,Atlanta,0.53
+15,Kansas City,0.6,Chicago,0.4
+15,L.A. Rams,0.48,San Francisco,0.52
+15,N.Y. Giants,0.5,Washington,0.5
+15,New Orleans,0.55,Tennessee,0.45
+15,Oakland,0.26,L.A. Chargers,0.74
+15,Pittsburgh,0.42,N.Y. Jets,0.58
+16,Arizona,0.13,L.A. Rams,0.87
+16,Atlanta,0.41,Tampa Bay,0.59
+16,Chicago,0.48,Minnesota,0.52
+16,Cleveland,0.67,Cincinnati,0.33
+16,Green Bay,0.5,Detroit,0.5
+16,Indianapolis,0.38,Jacksonville,0.62
+16,L.A. Chargers,0.25,Kansas City,0.75
+16,Miami,0.05,New England,0.95
+16,N.Y. Jets,0.33,Buffalo,0.67
+16,New Orleans,0.55,Carolina,0.45
+16,Oakland,0.47,Denver,0.53
+16,Philadelphia,0.67,N.Y. Giants,0.33
+16,Pittsburgh,0.27,Baltimore,0.73
+16,San Francisco,0.39,Seattle,0.61
+16,Tennessee,0.44,Houston,0.56
+16,Washington,0.15,Dallas,0.85
