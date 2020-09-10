@@ -3,7 +3,7 @@
 require 'nokogiri'
 require 'open-uri'
 
-url = 'https://projects.fivethirtyeight.com/2019-nfl-predictions/games/'
+url = 'https://projects.fivethirtyeight.com/2020-nfl-predictions/games/'
 doc = Nokogiri::HTML(open(url))
 
 lines = []
